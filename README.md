@@ -5,3 +5,5 @@
 
 <img src="img/screenshots/Screenshot-2.png">
 
+A simple project to understand Django Framework
+
